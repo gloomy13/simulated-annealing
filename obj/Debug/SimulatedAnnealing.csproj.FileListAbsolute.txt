@@ -1,0 +1,7 @@
+c:\Users\maksc\Documents\symulowane-wyżażanie\simulated-annealing\bin\Debug\ProjektAI1.exe.config
+c:\Users\maksc\Documents\symulowane-wyżażanie\simulated-annealing\bin\Debug\ProjektAI1.exe
+c:\Users\maksc\Documents\symulowane-wyżażanie\simulated-annealing\bin\Debug\ProjektAI1.pdb
+c:\Users\maksc\Documents\symulowane-wyżażanie\simulated-annealing\obj\Debug\SimulatedAnnealing.csprojAssemblyReference.cache
+c:\Users\maksc\Documents\symulowane-wyżażanie\simulated-annealing\obj\Debug\SimulatedAnnealing.csproj.CoreCompileInputs.cache
+c:\Users\maksc\Documents\symulowane-wyżażanie\simulated-annealing\obj\Debug\ProjektAI1.exe
+c:\Users\maksc\Documents\symulowane-wyżażanie\simulated-annealing\obj\Debug\ProjektAI1.pdb
