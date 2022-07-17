@@ -43,9 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Rozwiazanie.cs" />
-    <Compile Include="Zadanie.cs" />
-    <Compile Include="Procesor.cs" />
+    <Compile Include="Processing\Rozwiazanie.cs" />
+    <Compile Include="Processing\Zadanie.cs" />
+    <Compile Include="Processing\Procesor.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
